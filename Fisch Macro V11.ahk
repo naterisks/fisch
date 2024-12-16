@@ -31,7 +31,7 @@ AutoBlurCamera := true
 AutoBlurDelay := 50
 
 ; How long to wait after fishing before restarting
-RestartDelay := 1000
+RestartDelay := 1
 
 ; How long to hold the cast for before releasing
 HoldRodCastDuration := 1000
@@ -40,12 +40,12 @@ HoldRodCastDuration := 1000
 WaitForBobberDelay := 1000
 
 ; Set this to your navigation key, IMPORTANT
-NavigationKey := "ň"
+NavigationKey := "\"
 
 ;     SHAKE SETTINGS     ====================================================================================================;
 
 ; Change to "Navigation" or "Click"
-ShakeMode := "Navigation"
+ShakeMode := "click"
 
 ; Color range to scan for fish bar
 FishBarColorTolerance := 0
